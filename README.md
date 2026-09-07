@@ -82,4 +82,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NiharKumar71/My_LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/NiharKumar71/My_LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
