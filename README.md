@@ -61,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/NiharKumar71/My_LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [3870-count-commas-in-range](https://github.com/NiharKumar71/My_LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
