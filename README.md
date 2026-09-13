@@ -12,6 +12,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/NiharKumar71/My_LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0835-image-overlap](https://github.com/NiharKumar71/My_LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NiharKumar71/My_LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/NiharKumar71/My_LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NiharKumar71/My_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -64,6 +65,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/NiharKumar71/My_LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NiharKumar71/My_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Math
 | Problem Name | Difficulty |
