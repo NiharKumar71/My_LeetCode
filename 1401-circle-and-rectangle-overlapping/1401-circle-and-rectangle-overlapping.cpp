@@ -1,0 +1,16 @@
+class Solution {
+public:
+    bool checkOverlap(int radius, int xCenter, int yCenter,
+                      int x1, int y1, int x2, int y2) {
+
+        // Closest point on the rectangle to the circle center
+        int x = max(x1, min(xCenter, x2));
+        int y = max(y1, min(yCenter, y2));
+
+        // Check whether that point lies inside/on the circle
+        long long dx = x - xCenter;
+        long long dy = y - yCenter;
+
+        return dx * dx + dy * dy <= 1LL * radius * radius;
+    }
+};
