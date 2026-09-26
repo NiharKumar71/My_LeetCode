@@ -15,6 +15,7 @@
 | [0835-image-overlap](https://github.com/NiharKumar71/My_LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NiharKumar71/My_LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NiharKumar71/My_LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/NiharKumar71/My_LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/NiharKumar71/My_LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -49,6 +50,7 @@
 | [0010-regular-expression-matching](https://github.com/NiharKumar71/My_LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0115-distinct-subsequences](https://github.com/NiharKumar71/My_LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NiharKumar71/My_LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/NiharKumar71/My_LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -65,6 +67,7 @@
 | [1096-brace-expansion-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NiharKumar71/My_LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/NiharKumar71/My_LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NiharKumar71/My_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Bit Manipulation
