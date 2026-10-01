@@ -49,6 +49,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/NiharKumar71/My_LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/NiharKumar71/My_LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/NiharKumar71/My_LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0020-valid-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/NiharKumar71/My_LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NiharKumar71/My_LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -192,6 +193,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NiharKumar71/My_LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -199,6 +201,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NiharKumar71/My_LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
