@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/NiharKumar71/My_LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/NiharKumar71/My_LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/NiharKumar71/My_LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0088-merge-sorted-array](https://github.com/NiharKumar71/My_LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NiharKumar71/My_LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/NiharKumar71/My_LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/NiharKumar71/My_LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -58,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NiharKumar71/My_LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0088-merge-sorted-array](https://github.com/NiharKumar71/My_LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/NiharKumar71/My_LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NiharKumar71/My_LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/NiharKumar71/My_LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -201,6 +203,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/NiharKumar71/My_LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/NiharKumar71/My_LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/NiharKumar71/My_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
