@@ -147,6 +147,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/NiharKumar71/My_LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NiharKumar71/My_LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/NiharKumar71/My_LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/NiharKumar71/My_LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -233,6 +234,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NiharKumar71/My_LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NiharKumar71/My_LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NiharKumar71/My_LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/NiharKumar71/My_LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NiharKumar71/My_LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
