@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/NiharKumar71/My_LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/NiharKumar71/My_LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/NiharKumar71/My_LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/NiharKumar71/My_LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/NiharKumar71/My_LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Array
@@ -180,6 +181,7 @@
 | [0002-add-two-numbers](https://github.com/NiharKumar71/My_LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/NiharKumar71/My_LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/NiharKumar71/My_LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/NiharKumar71/My_LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/NiharKumar71/My_LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/NiharKumar71/My_LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Prefix Sum
