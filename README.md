@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/NiharKumar71/My_LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/NiharKumar71/My_LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/NiharKumar71/My_LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0141-linked-list-cycle](https://github.com/NiharKumar71/My_LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/NiharKumar71/My_LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/NiharKumar71/My_LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Array
@@ -76,6 +77,7 @@
 | [0015-3sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/NiharKumar71/My_LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/NiharKumar71/My_LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/NiharKumar71/My_LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/NiharKumar71/My_LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NiharKumar71/My_LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -115,6 +117,7 @@
 | [0001-two-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NiharKumar71/My_LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/NiharKumar71/My_LeetCode/tree/main/0041-first-missing-positive/) | Hard |
+| [0141-linked-list-cycle](https://github.com/NiharKumar71/My_LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/NiharKumar71/My_LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/NiharKumar71/My_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -342,4 +345,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/NiharKumar71/My_LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
