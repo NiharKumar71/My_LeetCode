@@ -47,6 +47,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/NiharKumar71/My_LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NiharKumar71/My_LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NiharKumar71/My_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NiharKumar71/My_LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -132,6 +133,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NiharKumar71/My_LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/NiharKumar71/My_LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NiharKumar71/My_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -241,6 +243,7 @@
 | [0268-missing-number](https://github.com/NiharKumar71/My_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NiharKumar71/My_LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NiharKumar71/My_LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
