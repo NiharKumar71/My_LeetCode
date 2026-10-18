@@ -28,6 +28,7 @@
 | [0075-sort-colors](https://github.com/NiharKumar71/My_LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/NiharKumar71/My_LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NiharKumar71/My_LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/NiharKumar71/My_LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/NiharKumar71/My_LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/NiharKumar71/My_LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -166,6 +167,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/NiharKumar71/My_LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0029-divide-two-integers](https://github.com/NiharKumar71/My_LeetCode/tree/main/0029-divide-two-integers/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/NiharKumar71/My_LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/NiharKumar71/My_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/NiharKumar71/My_LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/NiharKumar71/My_LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -298,6 +300,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/NiharKumar71/My_LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/NiharKumar71/My_LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
