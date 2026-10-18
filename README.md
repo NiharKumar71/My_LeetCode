@@ -298,6 +298,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0225-implement-stack-using-queues](https://github.com/NiharKumar71/My_LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NiharKumar71/My_LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -353,6 +354,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/NiharKumar71/My_LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -379,6 +381,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/NiharKumar71/My_LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/NiharKumar71/My_LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
