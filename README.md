@@ -106,6 +106,7 @@
 | [0020-valid-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/NiharKumar71/My_LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0224-basic-calculator](https://github.com/NiharKumar71/My_LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -171,6 +172,7 @@
 | [0002-add-two-numbers](https://github.com/NiharKumar71/My_LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0029-divide-two-integers](https://github.com/NiharKumar71/My_LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NiharKumar71/My_LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0224-basic-calculator](https://github.com/NiharKumar71/My_LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0268-missing-number](https://github.com/NiharKumar71/My_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/NiharKumar71/My_LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/NiharKumar71/My_LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -209,6 +211,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/NiharKumar71/My_LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/NiharKumar71/My_LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/NiharKumar71/My_LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0224-basic-calculator](https://github.com/NiharKumar71/My_LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/NiharKumar71/My_LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -305,6 +308,7 @@
 | [0020-valid-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NiharKumar71/My_LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0224-basic-calculator](https://github.com/NiharKumar71/My_LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/NiharKumar71/My_LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
