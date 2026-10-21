@@ -14,6 +14,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/NiharKumar71/My_LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/NiharKumar71/My_LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/NiharKumar71/My_LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/NiharKumar71/My_LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/NiharKumar71/My_LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/NiharKumar71/My_LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
@@ -95,6 +96,7 @@
 | [0075-sort-colors](https://github.com/NiharKumar71/My_LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/NiharKumar71/My_LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/NiharKumar71/My_LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/NiharKumar71/My_LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0283-move-zeroes](https://github.com/NiharKumar71/My_LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/NiharKumar71/My_LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -140,6 +142,7 @@
 | [0041-first-missing-positive](https://github.com/NiharKumar71/My_LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/NiharKumar71/My_LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/NiharKumar71/My_LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/NiharKumar71/My_LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/NiharKumar71/My_LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/NiharKumar71/My_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
