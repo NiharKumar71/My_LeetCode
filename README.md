@@ -206,6 +206,7 @@
 | [0053-maximum-subarray](https://github.com/NiharKumar71/My_LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0115-distinct-subsequences](https://github.com/NiharKumar71/My_LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NiharKumar71/My_LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NiharKumar71/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -252,6 +253,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NiharKumar71/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NiharKumar71/My_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
@@ -259,12 +261,14 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NiharKumar71/My_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NiharKumar71/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NiharKumar71/My_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Manacher
@@ -438,4 +442,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/NiharKumar71/My_LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
