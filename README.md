@@ -170,6 +170,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NiharKumar71/My_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -256,6 +257,7 @@
 | [0100-same-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0226-invert-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NiharKumar71/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NiharKumar71/My_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
@@ -264,6 +266,7 @@
 | [0100-same-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0226-invert-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NiharKumar71/My_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -271,6 +274,7 @@
 | [0100-same-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0226-invert-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NiharKumar71/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NiharKumar71/My_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Manacher
