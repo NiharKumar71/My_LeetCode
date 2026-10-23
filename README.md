@@ -114,6 +114,7 @@
 | [0032-longest-valid-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/NiharKumar71/My_LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0224-basic-calculator](https://github.com/NiharKumar71/My_LeetCode/tree/main/0224-basic-calculator/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -171,6 +172,7 @@
 | [0100-same-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NiharKumar71/My_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -258,6 +260,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NiharKumar71/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NiharKumar71/My_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
@@ -267,6 +270,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NiharKumar71/My_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -275,6 +279,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NiharKumar71/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NiharKumar71/My_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Manacher
@@ -424,6 +429,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/NiharKumar71/My_LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/NiharKumar71/My_LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
