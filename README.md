@@ -215,6 +215,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NiharKumar71/My_LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/NiharKumar71/My_LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NiharKumar71/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NiharKumar71/My_LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -265,6 +266,7 @@
 | [0226-invert-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0700-search-in-a-binary-search-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/NiharKumar71/My_LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NiharKumar71/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NiharKumar71/My_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
@@ -276,6 +278,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0968-binary-tree-cameras](https://github.com/NiharKumar71/My_LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NiharKumar71/My_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -287,6 +290,7 @@
 | [0226-invert-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0700-search-in-a-binary-search-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/NiharKumar71/My_LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NiharKumar71/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NiharKumar71/My_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Manacher
@@ -467,4 +471,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0968-binary-tree-cameras](https://github.com/NiharKumar71/My_LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 <!---LeetCode Topics End-->
