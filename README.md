@@ -267,6 +267,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0700-search-in-a-binary-search-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/NiharKumar71/My_LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
@@ -280,6 +281,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/NiharKumar71/My_LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -292,6 +294,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0700-search-in-a-binary-search-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/NiharKumar71/My_LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
@@ -458,6 +461,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NiharKumar71/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Memoization
@@ -477,4 +481,12 @@
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/NiharKumar71/My_LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
