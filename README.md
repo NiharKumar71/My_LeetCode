@@ -41,6 +41,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/NiharKumar71/My_LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/NiharKumar71/My_LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/NiharKumar71/My_LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [0502-ipo](https://github.com/NiharKumar71/My_LeetCode/tree/main/0502-ipo/) | Hard |
 | [0704-binary-search](https://github.com/NiharKumar71/My_LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0835-image-overlap](https://github.com/NiharKumar71/My_LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -325,6 +326,7 @@
 | [0217-contains-duplicate](https://github.com/NiharKumar71/My_LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/NiharKumar71/My_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/NiharKumar71/My_LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0502-ipo](https://github.com/NiharKumar71/My_LeetCode/tree/main/0502-ipo/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NiharKumar71/My_LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NiharKumar71/My_LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -339,6 +341,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0502-ipo](https://github.com/NiharKumar71/My_LeetCode/tree/main/0502-ipo/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NiharKumar71/My_LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NiharKumar71/My_LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -439,6 +442,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/NiharKumar71/My_LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/NiharKumar71/My_LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0502-ipo](https://github.com/NiharKumar71/My_LeetCode/tree/main/0502-ipo/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NiharKumar71/My_LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
