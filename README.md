@@ -317,6 +317,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/NiharKumar71/My_LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/NiharKumar71/My_LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
+| [1192-critical-connections-in-a-network](https://github.com/NiharKumar71/My_LeetCode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NiharKumar71/My_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NiharKumar71/My_LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -560,4 +561,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NiharKumar71/My_LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/NiharKumar71/My_LeetCode/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Biconnected Component
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/NiharKumar71/My_LeetCode/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Bridge (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/NiharKumar71/My_LeetCode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 <!---LeetCode Topics End-->
