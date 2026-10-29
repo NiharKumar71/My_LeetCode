@@ -33,6 +33,7 @@
 | [0088-merge-sorted-array](https://github.com/NiharKumar71/My_LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NiharKumar71/My_LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NiharKumar71/My_LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0200-number-of-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/NiharKumar71/My_LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/NiharKumar71/My_LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -186,6 +187,7 @@
 | [0100-same-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -197,6 +199,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/NiharKumar71/My_LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0835-image-overlap](https://github.com/NiharKumar71/My_LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -306,6 +309,7 @@
 | [0101-symmetric-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0200-number-of-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NiharKumar71/My_LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -500,6 +504,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NiharKumar71/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NiharKumar71/My_LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
