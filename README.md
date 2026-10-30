@@ -142,6 +142,7 @@
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/NiharKumar71/My_LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/NiharKumar71/My_LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -474,6 +475,7 @@
 | [0347-top-k-frequent-elements](https://github.com/NiharKumar71/My_LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0502-ipo](https://github.com/NiharKumar71/My_LeetCode/tree/main/0502-ipo/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NiharKumar71/My_LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/NiharKumar71/My_LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -565,6 +567,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/NiharKumar71/My_LeetCode/tree/main/1192-critical-connections-in-a-network/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/NiharKumar71/My_LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Biconnected Component
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -573,4 +576,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/NiharKumar71/My_LeetCode/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/NiharKumar71/My_LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 <!---LeetCode Topics End-->
