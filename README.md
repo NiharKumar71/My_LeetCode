@@ -204,6 +204,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0547-number-of-provinces](https://github.com/NiharKumar71/My_LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/NiharKumar71/My_LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/NiharKumar71/My_LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/NiharKumar71/My_LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -335,6 +336,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/NiharKumar71/My_LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/NiharKumar71/My_LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/NiharKumar71/My_LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/NiharKumar71/My_LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/NiharKumar71/My_LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1192-critical-connections-in-a-network](https://github.com/NiharKumar71/My_LeetCode/tree/main/1192-critical-connections-in-a-network/) | Hard |
@@ -529,6 +531,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/NiharKumar71/My_LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/NiharKumar71/My_LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NiharKumar71/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NiharKumar71/My_LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -590,6 +593,7 @@
 | [0207-course-schedule](https://github.com/NiharKumar71/My_LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/NiharKumar71/My_LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/NiharKumar71/My_LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/NiharKumar71/My_LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/NiharKumar71/My_LeetCode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/NiharKumar71/My_LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -622,4 +626,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/NiharKumar71/My_LeetCode/tree/main/0705-design-hashset/) | Easy |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/NiharKumar71/My_LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/NiharKumar71/My_LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
