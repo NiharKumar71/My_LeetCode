@@ -49,6 +49,7 @@
 | [0705-design-hashset](https://github.com/NiharKumar71/My_LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0733-flood-fill](https://github.com/NiharKumar71/My_LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0835-image-overlap](https://github.com/NiharKumar71/My_LeetCode/tree/main/0835-image-overlap/) | Medium |
+| [0864-shortest-path-to-get-all-keys](https://github.com/NiharKumar71/My_LeetCode/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NiharKumar71/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -184,6 +185,7 @@
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/NiharKumar71/My_LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0268-missing-number](https://github.com/NiharKumar71/My_LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0864-shortest-path-to-get-all-keys](https://github.com/NiharKumar71/My_LeetCode/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NiharKumar71/My_LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NiharKumar71/My_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/NiharKumar71/My_LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -206,6 +208,7 @@
 | [0733-flood-fill](https://github.com/NiharKumar71/My_LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/NiharKumar71/My_LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/NiharKumar71/My_LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0864-shortest-path-to-get-all-keys](https://github.com/NiharKumar71/My_LeetCode/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NiharKumar71/My_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -216,6 +219,7 @@
 | [0200-number-of-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/NiharKumar71/My_LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0835-image-overlap](https://github.com/NiharKumar71/My_LeetCode/tree/main/0835-image-overlap/) | Medium |
+| [0864-shortest-path-to-get-all-keys](https://github.com/NiharKumar71/My_LeetCode/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/NiharKumar71/My_LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NiharKumar71/My_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
