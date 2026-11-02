@@ -17,6 +17,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/NiharKumar71/My_LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/NiharKumar71/My_LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0705-design-hashset](https://github.com/NiharKumar71/My_LeetCode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/NiharKumar71/My_LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/NiharKumar71/My_LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/NiharKumar71/My_LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Array
@@ -48,6 +49,7 @@
 | [0502-ipo](https://github.com/NiharKumar71/My_LeetCode/tree/main/0502-ipo/) | Hard |
 | [0704-binary-search](https://github.com/NiharKumar71/My_LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/NiharKumar71/My_LeetCode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/NiharKumar71/My_LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0733-flood-fill](https://github.com/NiharKumar71/My_LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0835-image-overlap](https://github.com/NiharKumar71/My_LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/NiharKumar71/My_LeetCode/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
@@ -171,6 +173,7 @@
 | [0268-missing-number](https://github.com/NiharKumar71/My_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/NiharKumar71/My_LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0705-design-hashset](https://github.com/NiharKumar71/My_LeetCode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/NiharKumar71/My_LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NiharKumar71/My_LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -529,6 +532,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NiharKumar71/My_LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NiharKumar71/My_LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0705-design-hashset](https://github.com/NiharKumar71/My_LeetCode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/NiharKumar71/My_LeetCode/tree/main/0706-design-hashmap/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -633,6 +637,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/NiharKumar71/My_LeetCode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/NiharKumar71/My_LeetCode/tree/main/0706-design-hashmap/) | Easy |
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
