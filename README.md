@@ -43,6 +43,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/NiharKumar71/My_LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/NiharKumar71/My_LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NiharKumar71/My_LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/NiharKumar71/My_LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0502-ipo](https://github.com/NiharKumar71/My_LeetCode/tree/main/0502-ipo/) | Hard |
 | [0704-binary-search](https://github.com/NiharKumar71/My_LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -235,6 +236,7 @@
 | [0224-basic-calculator](https://github.com/NiharKumar71/My_LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0268-missing-number](https://github.com/NiharKumar71/My_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NiharKumar71/My_LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/NiharKumar71/My_LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/NiharKumar71/My_LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NiharKumar71/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -380,6 +382,7 @@
 | [0217-contains-duplicate](https://github.com/NiharKumar71/My_LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/NiharKumar71/My_LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/NiharKumar71/My_LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0502-ipo](https://github.com/NiharKumar71/My_LeetCode/tree/main/0502-ipo/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NiharKumar71/My_LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
