@@ -631,6 +631,7 @@
 | [0841-keys-and-rooms](https://github.com/NiharKumar71/My_LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/NiharKumar71/My_LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1192-critical-connections-in-a-network](https://github.com/NiharKumar71/My_LeetCode/tree/main/1192-critical-connections-in-a-network/) | Hard |
+| [1791-find-center-of-star-graph](https://github.com/NiharKumar71/My_LeetCode/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/NiharKumar71/My_LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/NiharKumar71/My_LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Biconnected Component
