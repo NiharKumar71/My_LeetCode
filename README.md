@@ -57,6 +57,7 @@
 | [0864-shortest-path-to-get-all-keys](https://github.com/NiharKumar71/My_LeetCode/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [0997-find-the-town-judge](https://github.com/NiharKumar71/My_LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/NiharKumar71/My_LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NiharKumar71/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NiharKumar71/My_LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -226,6 +227,7 @@
 | [0864-shortest-path-to-get-all-keys](https://github.com/NiharKumar71/My_LeetCode/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/NiharKumar71/My_LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/NiharKumar71/My_LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NiharKumar71/My_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NiharKumar71/My_LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -238,6 +240,7 @@
 | [0835-image-overlap](https://github.com/NiharKumar71/My_LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/NiharKumar71/My_LeetCode/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/NiharKumar71/My_LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/NiharKumar71/My_LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NiharKumar71/My_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NiharKumar71/My_LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -370,6 +373,7 @@
 | [0968-binary-tree-cameras](https://github.com/NiharKumar71/My_LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1192-critical-connections-in-a-network](https://github.com/NiharKumar71/My_LeetCode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/NiharKumar71/My_LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/NiharKumar71/My_LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NiharKumar71/My_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NiharKumar71/My_LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -569,6 +573,7 @@
 | [0547-number-of-provinces](https://github.com/NiharKumar71/My_LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/NiharKumar71/My_LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/NiharKumar71/My_LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/NiharKumar71/My_LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NiharKumar71/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/NiharKumar71/My_LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NiharKumar71/My_LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -620,6 +625,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NiharKumar71/My_LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/NiharKumar71/My_LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
