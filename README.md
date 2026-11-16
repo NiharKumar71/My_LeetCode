@@ -159,6 +159,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NiharKumar71/My_LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/NiharKumar71/My_LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NiharKumar71/My_LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -459,6 +460,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/NiharKumar71/My_LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/NiharKumar71/My_LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
