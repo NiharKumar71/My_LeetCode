@@ -72,6 +72,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NiharKumar71/My_LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NiharKumar71/My_LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/NiharKumar71/My_LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/NiharKumar71/My_LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/NiharKumar71/My_LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/NiharKumar71/My_LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NiharKumar71/My_LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -303,6 +304,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/NiharKumar71/My_LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NiharKumar71/My_LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/NiharKumar71/My_LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/NiharKumar71/My_LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NiharKumar71/My_LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/NiharKumar71/My_LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/NiharKumar71/My_LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -437,6 +439,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/NiharKumar71/My_LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/NiharKumar71/My_LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/NiharKumar71/My_LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/NiharKumar71/My_LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NiharKumar71/My_LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NiharKumar71/My_LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NiharKumar71/My_LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
